@@ -21,7 +21,7 @@ This example requires the Driver Station to be running with Teleoperated Enabled
 	</Item>
 	<Item Name="roboRIO" Type="RT myRIO">
 		<Property Name="alias.name" Type="Str">roboRIO</Property>
-		<Property Name="alias.value" Type="Str">roboRIO-1572-FRC.local</Property>
+		<Property Name="alias.value" Type="Str">roborio-1572-frc.local</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;DeviceCode,76F2;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">76F2</Property>
 		<Property Name="crio.family" Type="Str">ARMLinux</Property>
@@ -98,7 +98,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="CAN Talon Speed Control Encoder.vi" Type="VI" URL="../../../../../Desktop/examples/FRC/roboRIO/Robot and Motor/CAN Talon Speed Control Encoder/CAN Talon Speed Control Encoder.vi"/>
+		<Item Name="CAN Talon Speed Control Encoder.vi" Type="VI" URL="../CAN Talon Speed Control Encoder.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>

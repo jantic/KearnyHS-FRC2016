@@ -1,6 +1,6 @@
 [My Computer]
-My Computer = "127.0.0.1"
+My Computer = "10.15.72.224"
 
 [roboRIO]
-roboRIO = "roboRIO-1572-FRC.local"
+roboRIO = "roborio-1572-frc.local"
 

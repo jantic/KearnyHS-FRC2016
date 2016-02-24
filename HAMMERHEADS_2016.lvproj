@@ -124,9 +124,10 @@ AddOutputFilter chunkFilter
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
+			<Item Name="Vision Center RPM Shoot.vi" Type="VI" URL="../Vision Center RPM Shoot.vi"/>
+			<Item Name="Vision Center Shoot.vi" Type="VI" URL="../Vision Center Shoot.vi"/>
+			<Item Name="Vision Center.vi" Type="VI" URL="../Vision Center.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
-			<Item Name="Vision Shooter Center.vi" Type="VI" URL="../Vision Shooter Center.vi"/>
-			<Item Name="Vision Shooter Lineup.vi" Type="VI" URL="../Vision Shooter Lineup.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Shared Variables.lvlib" Type="Library" URL="../Shared Variables.lvlib"/>
